@@ -119,6 +119,6 @@ Portfolio-Risk-Analysis-VaR-Python
 
 ## Author
 
-**Alejandro Aimar**
+**Alejandro Aimar y compañeros de la carrera**
 
 Actuarial Science Student | Finance & Risk Management Enthusiast
